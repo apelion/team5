@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DianshangXiangmu.iml" filepath="$PROJECT_DIR$/DianshangXiangmu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlibrary/mlibrary.iml" filepath="$PROJECT_DIR$/mlibrary/mlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rikao1/rikao1.iml" filepath="$PROJECT_DIR$/rikao1/rikao1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xlistviewlibrary/xlistviewlibrary.iml" filepath="$PROJECT_DIR$/xlistviewlibrary/xlistviewlibrary.iml" />
+    </modules>
+  </component>
+</project>
